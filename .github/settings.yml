@@ -1,0 +1,11 @@
+repository:
+  name: tailwind-css-extensions
+  description: description of repo
+  topics: tailwind, tailwind-plugin
+  private: false
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_downloads: true
+  default_branch: main
+

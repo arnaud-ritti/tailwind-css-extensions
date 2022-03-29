@@ -1,0 +1,9 @@
+.tailwind-list{
+    @apply space-y-4;
+    & > li {
+        @apply flex items-center;
+        & > p {
+            @apply ml-4;
+        }
+    }
+}
